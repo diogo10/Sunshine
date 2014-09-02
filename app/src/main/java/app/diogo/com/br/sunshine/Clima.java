@@ -7,6 +7,7 @@ public class Clima {
 
     private String dia;
     private String tipo;
+    private String icon;
 
 
     public Clima(String dia, String tipo){
